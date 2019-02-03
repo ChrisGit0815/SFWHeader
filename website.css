@@ -20,14 +20,18 @@ header img{
 }
 
 .headline{
-  max-height: 50%;
+  height: 50%;
+  text-align: center;
 }
 
 .headline p{
-  max-height: 100%;
+  height: 100%;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-size: 300%;
   font-style: italic;
   color: #14273f;
+  text-align: center;
 }
 
 .navigation{
